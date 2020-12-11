@@ -1,0 +1,21 @@
+{
+  "name": "firebase-database-infinite-list-example",
+  "version": "0.1.0",
+  "description": "Firebase Database",
+  "main": "index.html",
+  "private": false,
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@react-firebase/database": "^0.2.31",
+    "firebase": "^5.4.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7",
+    "prettier": "^1.14.2",
+    "typescript": "^4.1.2"
+  }
+}
